@@ -27,7 +27,7 @@ The system aims at providing the best solution to the problem statement. In part
 4. The system will automate all the major operations involved in food ordering.
 
 
-##Functional requirements:
+## Functional requirements:
 Functional requirements define the capabilities and functions that a system must be able to perform successfully. The functional requirements of this online ordering system include:
 1. The system shall enable the customer to view the products menu, prices and place an order.
 2. The customer specifies whether he wants to pick the order or needs it to be delivered.
